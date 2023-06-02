@@ -71,8 +71,6 @@ void main(List<String> args) { Persona persona = Persona();
 
 persona.nombre = "Hugo"; persona.edad= 10;
 
-print("Nombre: $(persona.nombre)"); print("Edad: $(persona.edad)");
-
 class Persona { //Propiedades
 
 String? nombre; int? edad;
@@ -247,7 +245,7 @@ String _marca;
 
 Carro(this._marca) {
 
-print("Constructor hijo Carro
+print("Constructor hijo Carro)
 
 }
 
