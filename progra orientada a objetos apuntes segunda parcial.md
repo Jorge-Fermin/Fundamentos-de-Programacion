@@ -1,5 +1,5 @@
-# j
-Jorge Fermin Gama i.c.i 2B
+
+# Jorge Fermin Gama i.c.i 2B
 # programacion orientada a objetos 
 # apuntes
 #Unidad 2. Programación Orientada a Objetos con Dart
