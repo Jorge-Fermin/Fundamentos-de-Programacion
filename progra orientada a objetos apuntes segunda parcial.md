@@ -305,8 +305,6 @@ class Vehiculo (
 
 String? _color; int? _velocidad;
 
-Computación Intelige
-
 print("Constructor padre - Vehiculo");
 
 set col
